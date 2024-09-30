@@ -1,15 +1,10 @@
----
-title: Projeto Final - Banco de Dados
+# Santander Coders 2024.2 - Data Science | Banco de Dados I
 
----
+Projeto final do módulo de Banco de Dados I oferecido pelo Santander Open Academy em parceria com a AdaTech.
 
-# Projeto Final - Banco de Dados
-
-Projeto final do módulo de Banco de Dados I da trilha de Data Science do Programa Santander Coders 2024.2 oferecido pela AdaTech em parceria com o Santander Open Acadamy.
-
-- **Instrutor:** [Lucas Ximenes](https://www.linkedin.com/in/luc4sxf/)
-- **Grupo:** Giovanni Ornellas ([GitHub](https://github.com/Giovanni-Ornellas)/[Linkedin](https://www.linkedin.com/in/giovanni-ornellas-419610227/)), Lívia Nobre ([GitHub]()/[Linkedin](https://www.linkedin.com/in/livianobremesquita/)), Maria Paula Andrade ([GitHub](https://github.com/MariaPaulaAndrade)/[Linkedin](https://www.linkedin.com/in/maria-paula-andrade/)) 
-e Murilo da Silva ([GitHub](https://github.com/MuriloSBenedito)/[Linkedin](http://www.linkedin.com/in/murilo-silva-bb2741a1))
+- **Instrutor:** [Lucas Ximenes](https://www.linkedin.com/in/luc4sxf/) 
+- **Grupo** Giovanni Ornellas ([GitHub](https://github.com/Giovanni-Ornellas)/[Linkedin](https://www.linkedin.com/in/giovanni-ornellas-419610227/)),  Lívia Nobre ([GitHub]()/[Linkedin](https://www.linkedin.com/in/livianobremesquita/)), Maria Paula Andrade ([GitHub](https://github.com/MariaPaulaAndrade)/[Linkedin](https://www.linkedin.com/in/maria-paula-andrade/)) e
+Murilo da Silva ([GitHub](https://github.com/MuriloSBenedito)/[Linkedin](http://www.linkedin.com/in/murilo-silva-bb2741a1))
 
 ## Modelagem e normalização de banco de dados relacionais
 
@@ -39,6 +34,7 @@ codigo_diretor_responsavel, nome_diretor_responsavel, email_diretor_responsavel
 ### Modelo conceitual do esboço oferecido:
 
 ![diagrama_conceitual.drawio](https://hackmd.io/_uploads/SyATIvDAR.png)
+
 Temos duas tabelas: `cliente` e `produto`.
 
 - **Tabela cliente:**
@@ -72,6 +68,7 @@ Temos duas tabelas: `cliente` e `produto`.
    - **Exemplo:** Considere uma tabela "Funcionários" com as colunas "id_funcionario", "nome_funcionario", "id_departamento", e "nome_departamento". Se "nome_departamento" depende de "id_departamento", então temos uma dependência transitiva, já que "id_departamento" não é uma chave primária. Para atender à 3FN, devemos separar "Departamentos" em uma tabela distinta, contendo "id_departamento" e "nome_departamento", garantindo que todos os atributos não-chave dependam diretamente da chave primária.
 
 **Modelo lógico com normalização (até 3FN)**
+
 ![modelo_logico.drawio](https://hackmd.io/_uploads/H1pQPvP0R.png)
 
 1. **Tabela cliente:**
