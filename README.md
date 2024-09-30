@@ -3,7 +3,7 @@
 Projeto final do módulo de Banco de Dados I do Programa Santander Coders 2024.2 (trilha de Data Science) oferecido pelo Santander Open Academy em parceria com a AdaTech.
 
 - **Instrutor:** [Lucas Ximenes](https://www.linkedin.com/in/luc4sxf/) 
-- **Grupo** Giovanni Ornellas ([GitHub](https://github.com/Giovanni-Ornellas)/[Linkedin](https://www.linkedin.com/in/giovanni-ornellas-419610227/)),  Lívia Nobre ([GitHub]()/[Linkedin](https://www.linkedin.com/in/livianobremesquita/)), Maria Paula Andrade ([GitHub](https://github.com/MariaPaulaAndrade)/[Linkedin](https://www.linkedin.com/in/maria-paula-andrade/)) e
+- **Grupo** Giovanni Ornellas ([GitHub](https://github.com/Giovanni-Ornellas)/[Linkedin](https://www.linkedin.com/in/giovanni-ornellas-419610227/)),  Lívia Nobre ([GitHub](https://github.com/LiviaNobre)/[Linkedin](https://www.linkedin.com/in/livianobremesquita/)), Maria Paula Andrade ([GitHub](https://github.com/MariaPaulaAndrade)/[Linkedin](https://www.linkedin.com/in/maria-paula-andrade/)) e
 Murilo da Silva ([GitHub](https://github.com/MuriloSBenedito)/[Linkedin](http://www.linkedin.com/in/murilo-silva-bb2741a1))
 
 ## Modelagem e normalização de banco de dados relacionais
